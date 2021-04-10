@@ -1,6 +1,8 @@
 # Minecraft-Mod-Installer
 i make a miecarft mod installer(it's only for windows)
 
+the installer works in windows 7 - 10
+
 it's writed in a .bat file and it's make easier to install minecraft mods
 
 How it works:
