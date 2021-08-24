@@ -17,7 +17,7 @@ the code in the bat file:
 cd %userprofile%\Documents
 mkdir Mods_To_Install
 cd %userprofile%\Documents\Mods_To_Install
-echo Are you sure want to install all mods is in the mod folder Warning:the folder there must be only minecraft mod files the file type is .jar
+echo Are you sure want to install all mods is in the mod folder Warning:the folder there must be only minecraft mod files
 pause 
 cd %userprofile%\appdata\Roaming\.minecraft
 mkdir mods
