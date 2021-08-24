@@ -5,11 +5,7 @@ the installer works in windows 7 - 10
 
 it's writed in a .bat file and it's make easier to install minecraft mods
 
-How it works:
-
-first it's crates a folder in Documents which the folder is called Mods_To_Install
-
-then it moves everything from the folder(make sure the folder is have only minecraft mods) to the minecraft mods directory(if there is no mods directory it will create one)
+How it works:first when you start it create a folder in the documents which is called Mods_To_Install then it asks you if you want to install all the mods which is in the folder and to make sure that THERE IS ONLY MINECRAFT MODS and finally it moves all the mods to the minecraft mod folder if there isn't one it will create one
 
 
 the code in the bat file:
