@@ -1,5 +1,5 @@
 # Minecraft-Mod-Installer
-i make a miecarft mod installer(it's only for windows)
+i make a minecraft mod installer(it's only for windows)
 
 the installer works in windows 7 - 10
 
