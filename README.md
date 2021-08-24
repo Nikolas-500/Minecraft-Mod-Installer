@@ -21,5 +21,6 @@ echo Are you sure want to install all mods is in the mod folder Warning:the fold
 pause 
 cd %userprofile%\appdata\Roaming\.minecraft
 mkdir mods
+cd %userprofile%\Documents
 copy * %userprofile%\appdata\Roaming\.minecraft\mods
-pause
+ping 1.1.1.1 > NUL
